@@ -122,7 +122,7 @@ CREATE TABLE PCBUILDS
 </tr>
 <tr>
   <td><h3>Welcome Screen</h3></td>
-  <td><h3>Login or Regiser Screen</h3></td>
+  <td><h3>Login or Register Screen</h3></td>
 </tr>
 </table>
 <br/>
