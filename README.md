@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/64122408/101913604-335bb900-3be9-11eb-95e2-7b3ff01fb555.png" height=50px width=50px>&emsp;PC Build</h1>
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/64122408/118642285-c8965580-b7f8-11eb-9838-b1780fbc7dbc.png" height=50px width=50px>&emsp;PC Build</h1>
 <br/>
 
 <div align="center">
@@ -133,7 +133,7 @@ CREATE TABLE PCBUILDS
 <td><img src="https://user-images.githubusercontent.com/64122408/118637837-d72e3e00-b7f3-11eb-998e-c4f767387dff.png"/></td>
 </tr>
 <tr>
-  <td><h3>CPU Selection Screem</h3></td>
+  <td><h3>CPU Selection Screen</h3></td>
   <td><h3>Display Selection Screen</h3></td>
 </tr>
 </table>
@@ -145,7 +145,7 @@ CREATE TABLE PCBUILDS
 <td><img src="https://user-images.githubusercontent.com/64122408/118638321-59b6fd80-b7f4-11eb-8233-4f216ea7b6ea.png"/></td>
 </tr>
 <tr>
-  <td><h3>Selected Build Screem</h3></td>
+  <td><h3>Selected Build Screen</h3></td>
   <td><h3>Export Build Screen</h3></td>
 </tr>
 </table>
