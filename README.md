@@ -170,9 +170,9 @@ CREATE TABLE PCBUILDS
 
 
 # CREDITS  
-* :white_check_mark:**Karthik Raja**
-* :white_check_mark:**Prasath RK**
-* :white_check_mark:**Vignesh R**
+* :white_check_mark:**Karthik Raja** https://github.com/mr-anonymous-official
+* :white_check_mark:**Prasath RK** https://github.com/PrasathDev
+* :white_check_mark:**Vignesh R** https://github.com/codervignesh
 
 <p align="left">  
 <h3 align="left">Connect with me:</h3>  
